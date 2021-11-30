@@ -40,8 +40,7 @@ class Month extends React.Component {
     }
 
     render() {
-        console.log('rendered');
-       
+      
         // console.log(this.state.activeDates.includes(1));
         var now = new Date();
         var days = [];
